@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/trickycoders/passwordsimplified/issues"
   },
-  "homepage": "https://github.com/trickycoders/passwordsimplified"
+  "homepage": "https://github.com/trickycoders/passwordsimplified",
+  "dependencies": {
+    "request-sync": "^1.0.0",
+    "sync-request": "^3.0.0"
+  }
 }
