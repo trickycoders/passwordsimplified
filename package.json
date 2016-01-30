@@ -1,0 +1,19 @@
+{
+  "name": "passwordsimplified",
+  "version": "1.0.0",
+  "description": "Personal Risk Manager for Password",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trickycoders/passwordsimplified.git"
+  },
+  "author": "Arun and Nivetha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trickycoders/passwordsimplified/issues"
+  },
+  "homepage": "https://github.com/trickycoders/passwordsimplified"
+}
